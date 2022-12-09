@@ -9,12 +9,12 @@ int main(){
     cout << "Enter an integer: ";
     cin  >> num;
         if(num%2 == 0){
-      odd = odd+1;
+      even = even +1;
 }else{
- even = even + 1;
+     odd = odd + 1;
 }
     }
-    cout << "#Even numbers = " << even << endl;
+    cout << "#Even numbers = " << even-1 << endl;
     cout << "#Odd numbers = " <<  odd << endl ;
     return 0;
 }
