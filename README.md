@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kanonlas_r@cmu.ac.th**
 
-- ⚡ Fun fact **I love playing piano**
+- ⚡ Fun fact **my hobbies is learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
