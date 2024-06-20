@@ -24,7 +24,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanonlas&show_icons=true&theme=catppuccin_latte)
 </div>
 
-<div>
-  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanonlas&layout=compact)]
-</div>
+
