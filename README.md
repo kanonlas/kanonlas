@@ -19,10 +19,6 @@
 </p>
 
 <h3 align="left">all my stack profile:</h3>
-
-![Kanonlas's GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanonlas&theme=aura_dark)
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanonlas&theme=aura_dark" alt="Kanonlas's Top Languages">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph">
 </p>
