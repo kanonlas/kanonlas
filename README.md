@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Unity, everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kanonlas](https://github.com/kanonlas)
+- 👨‍💻 All of my projects are available at [github](https://github.com/kanonlas) and also [Notion](https://app.notion.com/p/Check_Chue-13c33cc719fa801fa38edc88826a1774)
 
 - 📫 How to reach me **kanonlas.r@gmail.com**
 
